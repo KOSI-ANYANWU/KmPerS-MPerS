@@ -30,5 +30,7 @@ def divide(number1,number2):
 divide(10,2)
 
 # write a function to caculate the power of a given number, number and power should come from parameter
-def power(number1):
-    print(number1)
+def power(number1,power):
+    print(number1**power)
+
+power(2,6)

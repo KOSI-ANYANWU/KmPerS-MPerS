@@ -1,0 +1,5 @@
+greeting="welcome"
+def myfunction():
+    print(myfunction,greeting)
+myfunction()
+print(greeting,"to max idustry")
